@@ -200,6 +200,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="alexthevo04@gmail.com"/>
   </a>
 </p>
+<p align="center">
+<a href="mailto:alexthevo04@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">alexthevo04@gmail.com</a>
+</p>
 
 ------
 Credit: [Alexander Vo](https://github.com/alexandvo)
