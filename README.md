@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for **Internships in Software Development**
 
-- 👨‍💻 All of my projects are available [@Alexandvo](github.com/alexandvo)
+- 👨‍💻 All of my projects are available [@Alexandvo](https://github.com/alexandvo)
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
