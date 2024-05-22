@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Alexander Vo<img width="30px" src="https://raw.githubusercontent.com/alexandvo/static-files/main/wave.gif"></h1>
 <h3 font-size="20" align="center">A passionate software engineer.</h3>
 
-- 🌱 I’m currently learning **AWS** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/alexandvo/static-files/main/coding-penguin.gif"/>
+- 🌱 I’m currently learning **AWS** <img align="right" style="width:14rem; height:auto" src="https://raw.githubusercontent.com/alexandvo/static-files/main/coding-penguin.gif"/>
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
