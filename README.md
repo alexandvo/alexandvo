@@ -5,8 +5,7 @@
 <h1 align="center">Hi, I'm Alexander Vo<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate software engineer.</h3>
 
-
-- 🌱 I’m currently learning **AWS** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 I’m currently learning **AWS** <img align="right" style="width:16rem; height:auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY3bnRrcGtyMzlid3hwa3lqY3ZzNjZpNjl6OXgzcG9hZGduM3lieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
